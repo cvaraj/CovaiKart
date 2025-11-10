@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "saree-image",
+      "description": "Handwoven Silk Saree",
+      "imageUrl": "https://images.unsplash.com/photo-1618489335755-e3aa2b16cd7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzaWxrJTIwc2FyZWV8ZW58MHx8fHwxNzYyMDg1MDMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "silk saree"
+    },
+    {
+      "id": "coffee-image",
+      "description": "Artisan Coffee Powder",
+      "imageUrl": "https://images.unsplash.com/photo-1581447355330-7402a2f6f93e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb2ZmZWUlMjBwb3dkZXJ8ZW58MHx8fHwxNzYyMDk0MTkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee powder"
+    },
+    {
+      "id": "kadai-image",
+      "description": "Cast Iron Kadai",
+      "imageUrl": "https://images.unsplash.com/photo-1603038124597-2c5c207edf47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjYXN0JTIwaXJvbnxlbnwwfHx8fDE3NjIxNzkzMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cast iron"
+    },
+    {
+      "id": "hairoil-image",
+      "description": "Herbal Hair Oil",
+      "imageUrl": "https://images.unsplash.com/photo-1530565337452-355c4deada80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxoZXJiYWwlMjBvaWx8ZW58MHx8fHwxNzYyMTc5MzAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "herbal oil"
+    },
+    {
+      "id": "turmeric-image",
+      "description": "Organic Turmeric Powder",
+      "imageUrl": "https://images.unsplash.com/photo-1667889244329-7d34a4641a72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0dXJtZXJpYyUyMHBvd2RlcnxlbnwwfHx8fDE3NjIwNzgxMzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "turmeric powder"
+    },
+    {
+      "id": "claypot-image",
+      "description": "Handmade Clay Pot",
+      "imageUrl": "https://images.unsplash.com/photo-1633931764525-0234c405c8e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjbGF5JTIwcG90fGVufDB8fHx8MTc2MjA4NTAzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clay pot"
+    },
+    {
+      "id": "kurti-image",
+      "description": "Cotton Kurti",
+      "imageUrl": "https://images.unsplash.com/photo-1703495330144-0ab603d059ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb3R0b24lMjBrdXJ0aXxlbnwwfHx8fDE3NjIxNzkzMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cotton kurti"
+    },
+    {
+      "id": "coconutoil-image",
+      "description": "Cold Pressed Coconut Oil",
+      "imageUrl": "https://images.unsplash.com/photo-1627245784359-d8264960b62a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb2NvbnV0JTIwb2lsfGVufDB8fHx8MTc2MjE3OTMwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coconut oil"
+    },
+    {
+      "id": "hero-image",
+      "description": "Vibrant marketplace for hero section",
+      "imageUrl": "https://images.unsplash.com/photo-1739193926911-6ff45e0cfe47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx2aWJyYW50JTIwbWFya2V0cGxhY2V8ZW58MHx8fHwxNzYyMTc5MzAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vibrant marketplace"
+    }
+  ]
+}
