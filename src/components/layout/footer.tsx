@@ -38,7 +38,7 @@ export function Footer() {
           <div className="flex flex-col space-y-4 md:col-span-1">
             <Link href="/" className="flex items-center space-x-2">
               <Mountain className="h-7 w-7 text-primary" />
-              <span className="font-bold font-headline text-xl">CovaiKart</span>
+              <span className="font-bold font-headline text-xl">KonguMart</span>
             </Link>
             <p className="text-sm text-muted-foreground">
               Your local marketplace, connecting Coimbatore's sellers with buyers.
@@ -62,7 +62,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-border/50 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} CovaiKart. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} KonguMart. All rights reserved.</p>
         </div>
       </div>
     </footer>

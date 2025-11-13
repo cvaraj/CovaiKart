@@ -21,7 +21,7 @@ export default function VendorSignupPage() {
             <Mountain className="h-8 w-8 text-primary mx-auto" />
           <CardTitle className="text-2xl font-bold font-headline">Vendor Sign Up</CardTitle>
           <CardDescription>
-            Create your account to start selling on CovaiKart
+            Create your account to start selling on KonguMart
           </CardDescription>
         </CardHeader>
         <CardContent>

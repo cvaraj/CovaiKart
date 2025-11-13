@@ -30,7 +30,7 @@ export function Header() {
         <div className="mr-4 hidden md:flex">
           <Link href="/" className="mr-6 flex items-center space-x-2">
             <Mountain className="h-6 w-6 text-primary" />
-            <span className="font-bold font-headline text-lg">CovaiKart</span>
+            <span className="font-bold font-headline text-lg">KonguMart</span>
           </Link>
           <nav className="flex items-center space-x-6 text-sm font-medium">
              <DropdownMenu>
@@ -72,7 +72,7 @@ export function Header() {
             <nav className="flex flex-col h-full">
               <Link href="/" className="mb-8 flex items-center space-x-2">
                 <Mountain className="h-6 w-6 text-primary" />
-                <span className="font-bold font-headline text-lg">CovaiKart</span>
+                <span className="font-bold font-headline text-lg">KonguMart</span>
               </Link>
               <div className="flex flex-col space-y-4 text-lg">
                 <p className="font-semibold">Categories</p>
@@ -101,7 +101,7 @@ export function Header() {
         
         <Link href="/" className="md:hidden flex items-center space-x-2">
             <Mountain className="h-6 w-6 text-primary" />
-            <span className="font-bold font-headline text-lg">CovaiKart</span>
+            <span className="font-bold font-headline text-lg">KonguMart</span>
         </Link>
 
         <div className="flex flex-1 items-center justify-end space-x-2">

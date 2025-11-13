@@ -1,4 +1,4 @@
-# **App Name**: CovaiKart
+# **App Name**: KonguMart
 
 ## Core Features:
 

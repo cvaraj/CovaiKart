@@ -12,8 +12,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: 'CovaiKart',
-  description: 'Your local e-commerce marketplace for Coimbatore.',
+  title: 'KonguMart',
+  description: 'Your local e-commerce marketplace for Kongu region.',
 };
 
 export default function RootLayout({
